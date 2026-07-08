@@ -1,0 +1,15 @@
+{
+	"name": "cloudnaveenadfv2034",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e51694ca-46ce-4258-a876-baf2bff68148",
+		"tenantId": "8e90e43e-d59c-432b-b0b5-80314490943d"
+	}
+}

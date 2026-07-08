@@ -1,0 +1,17 @@
+{
+	"name": "DS_ASDB_Sink",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_ASDB",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "naveenk"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
